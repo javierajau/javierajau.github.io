@@ -1,0 +1,49 @@
+.header{
+    padding: 50px;
+    text-align: left;
+    color: white;
+    background-image: url(../img/lanas.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 175px;
+    border: 2px;
+    margin: 0px;
+}
+
+.title1{
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+.title2{
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+.tabla{
+    text-align: center;
+   /*margin-left: auto;*/
+   /* margin-right: auto;*/
+}
+
+.imagen{
+    width: 500px;
+    height: 400px;
+}
+
+.imagen img{
+    text-align: center;
+    width: 300px;
+    border: 2px solid pink;
+}
+
+.pie{
+    background-color: pink;
+    padding: 15px;
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    border: 2px;
+    margin: 0px;
+}
+
